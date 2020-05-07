@@ -15,15 +15,15 @@ git status
 
 git add
 
-git commit -m '<insert mesage here>'
+git commit -m '&lt;insert mesage here&gt;'
 
 git log
 
 git branch (list branches)
 
-git branch <name-of-new-branch>
+git branch &lt;name-of-new-branch&gt;
 
-git checkout <name-of-branch>
+git checkout &lt;name-of-branch&gt;
   
 git diff FIRST-BRANCH..SECOND-BRANCH (compare differences between branches)
 
@@ -31,17 +31,17 @@ git branch -D BRANCH-TO-DELETE
 
 git merge NAME-OF-BRANCH-TO-MERGE-WITH
   
-git remote add origin <repo URL> (link local directory to remote GitHub location)
+git remote add origin &lt;repo URL&gt; (link local directory to remote GitHub location)
   
 git remote -v
 
-git fetch <remote-repo> <remote-branch>:<local-branch> (retrieve remote branch and store it in new local branch)
+git fetch &lt;remote-repo&gt; &lt;remote-branch&gt;:&lt;local-branch&gt; (retrieve remote branch and store it in new local branch)
 
 git push -f origin master (upload local files to "origin" repo master branch)
 
 git push -u origin feature_branch_name
 
-git push origin --delete <branch_name>
+git push origin --delete &lt;branch_name&gt;
 
 ## useful websites
 
