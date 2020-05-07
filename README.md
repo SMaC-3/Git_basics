@@ -5,7 +5,7 @@ Basics of Git and GitHub necessary to get started
 
 Git provides useful local tools to manage version history and branching allowing for easier code management and collaboration. GitHub provides an online repository to share modifcations recorded locally by Git. 
 
-## Basic commands
+## Basic commands for Git
 
 git init
 
@@ -42,6 +42,10 @@ git push -f origin master (upload local files to "origin" repo master branch)
 git push -u origin feature_branch_name
 
 git push origin --delete &lt;branch_name&gt;
+
+## Basic commands for command line
+
+[List of Command Line Commands](https://www.codecademy.com/articles/command-line-commands)
 
 ## useful websites
 
