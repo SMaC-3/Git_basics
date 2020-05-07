@@ -43,11 +43,15 @@ git push -u origin feature_branch_name
 
 git push origin --delete &lt;branch_name&gt;
 
+## .gitignore file
+
+This is a hidden file (hence the full stop at the start of the file name) that informs Git about what it should exclude from its tracking. This is useful because there may be large files, such as images, or hidden files in your directory with sensitive information that you may not want uploaded onto GitHub
+
 ## Basic commands for command line
 
 [List of Command Line Commands](https://www.codecademy.com/articles/command-line-commands)
 
-## useful websites
+## Useful websites
 
 [cheetsheets from someone called "Rico"](https://devhints.io/), eg. [git log](https://devhints.io/git-log)
 
