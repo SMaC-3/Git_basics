@@ -15,7 +15,7 @@ git status
 
 git add
 
-git commit -m '&lt;insert mesage here&gt;'
+git commit -m '&lt;insert message here&gt;'
 
 git log
 
