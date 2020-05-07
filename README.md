@@ -9,7 +9,7 @@ Git provides useful local tools to manage version history and branching allowing
 
 git init
 
-git clone <repo url>
+git clone &lt;repo url&gt;
 
 git status
 
