@@ -53,6 +53,8 @@ This is a hidden file (hence the full stop at the start of the file name) that i
 
 ## Useful websites
 
+[Git docs](https://git-scm.com/doc)
+
 [cheetsheets from someone called "Rico"](https://devhints.io/), eg. [git log](https://devhints.io/git-log)
 
 
