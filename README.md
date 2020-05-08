@@ -37,6 +37,10 @@ git remote -v
 
 git fetch &lt;remote-repo&gt; &lt;remote-branch&gt;:&lt;local-branch&gt; (retrieve remote branch and store it in new local branch)
 
+git pull (retrieve pushed changes from GitHub repo)
+
+git push (upload committed changes to GitHub)
+
 git push -f origin master (upload local files to "origin" repo master branch)
 
 git push -u origin feature_branch_name
@@ -54,6 +58,8 @@ This is a hidden file (hence the full stop at the start of the file name) that i
 ## Useful websites
 
 [Git docs](https://git-scm.com/doc)
+
+[How to write a commit message](https://chris.beams.io/posts/git-commit/)
 
 [cheetsheets from someone called "Rico"](https://devhints.io/), eg. [git log](https://devhints.io/git-log)
 
