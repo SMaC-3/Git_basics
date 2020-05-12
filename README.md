@@ -23,6 +23,8 @@ git branch (list branches)
 
 git branch &lt;name-of-new-branch&gt;
 
+git branch -a (see all branches on GitHub)
+
 git checkout &lt;name-of-branch&gt;
   
 git diff FIRST-BRANCH..SECOND-BRANCH (compare differences between branches)
@@ -46,6 +48,26 @@ git push -f origin master (upload local files to "origin" repo master branch)
 git push -u origin feature_branch_name
 
 git push origin --delete &lt;branch_name&gt;
+
+To clone all branches:
+
+git clone --mirror URL(including .git) .git
+
+git config --bool core.bare false
+
+git reset --hard
+
+To clone specific branch:
+
+git clone -b name_of_branch URL
+
+To start fresh git log, you need to remove the old .git file:
+
+WARNING: following cannot be undone
+
+rm -dfr .git
+
+git init 
 
 ## .gitignore file
 
