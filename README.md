@@ -26,6 +26,10 @@ git branch &lt;name-of-new-branch&gt;
 git branch -a (see all branches on GitHub)
 
 git checkout &lt;name-of-branch&gt;
+
+git stash
+
+git stash pop
   
 git diff FIRST-BRANCH..SECOND-BRANCH (compare differences between branches)
 
@@ -84,6 +88,8 @@ This is a hidden file (hence the full stop at the start of the file name) that i
 [How to write a commit message](https://chris.beams.io/posts/git-commit/)
 
 [How to write a longer commit message](https://medium.com/@haydar_ai/learning-how-to-git-creating-a-longer-commit-message-16ca32746c3a)
+
+[Shelve changes using git stash](https://www.atlassian.com/git/tutorials/saving-changes/git-stash)
 
 [cheetsheets from someone called "Rico"](https://devhints.io/), eg. [git log](https://devhints.io/git-log)
 
