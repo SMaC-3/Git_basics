@@ -83,7 +83,10 @@ This is a hidden file (hence the full stop at the start of the file name) that i
 
 [How to write a commit message](https://chris.beams.io/posts/git-commit/)
 
+[How to write a longer commit message](https://medium.com/@haydar_ai/learning-how-to-git-creating-a-longer-commit-message-16ca32746c3a)
+
 [cheetsheets from someone called "Rico"](https://devhints.io/), eg. [git log](https://devhints.io/git-log)
+
 
 
 
