@@ -93,6 +93,8 @@ This is a hidden file (hence the full stop at the start of the file name) that i
 
 [cheetsheets from someone called "Rico"](https://devhints.io/), eg. [git log](https://devhints.io/git-log)
 
+[Branching conventions - Gitflow](https://www.atlassian.com/git/tutorials/comparing-workflows/gitflow-workflow)
+
 
 
 
